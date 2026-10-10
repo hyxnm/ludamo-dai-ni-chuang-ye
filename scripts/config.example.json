@@ -1,0 +1,10 @@
+{
+  "_说明": "复制为 config.json 后填入你的飞书自定义机器人 webhook。config.json 不应提交到公开仓库。",
+  "webhook_url": "https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "modes": {
+    "task": "执行清单（蓝）",
+    "archive": "归档（橙）",
+    "awaken": "觉醒/心态类（红）",
+    "career": "求职类（紫）"
+  }
+}
